@@ -1,0 +1,58 @@
+body {
+  color: #2f80ed;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+.image {
+  margin-top: 110px;
+  margin-bottom: 0;
+  margin-left: 380px;
+  margin-right: 380px;
+}
+
+.header-title {
+  font-size: 120px;
+  font-weight: 400;
+  line-height: 140px;
+  width: 400px;
+  height: 140px;
+  text-align: center;
+  margin-left: 440px;
+  margin-right: 440px;
+  margin-bottom: 20px;
+  margin-top: 0;
+  cursor: pointer;
+}
+
+ .header-title .hovertext {
+  visibility: hidden;
+  text-align:center;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  margin-top: 10px;
+  width: 400px;
+  
+}
+
+.header-title:hover .hovertext{
+  visibility: visible;
+    
+}
+
+footer {
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: normal;
+  width: 400px;
+  text-align: center;
+  margin-top: 280px;
+  margin-left: 440px;
+  margin-right: 440px;
+  margin-bottom: 30px;
+  
+}
+
+.page404 {
+  width: 1280px;
+
+}
